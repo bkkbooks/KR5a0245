@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5a0245/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大丹直指
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:42:58.527022'
+  source:
+    repository: kanripo
+    path: KR5a0245/KR5a0245_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:19da37b7a16f3958c75e7466be8299a33c1aaee7bfec78f81076cc282ec7968f
